@@ -1,0 +1,37 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.contenedor
+{
+    background:linear-gradient(#302f2f,rgb(107, 233, 96),#fff);
+    padding: 12px;      
+}
+#header
+{
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: serif;
+    padding-top: 10px;
+    color:rgb(9, 63, 108);
+}
+.direccion
+{
+    text-decoration: none;
+    font-size: 24px;
+    padding: -10px; 
+}
+.direccion:hover
+{
+    color:rgb(38, 0, 255);
+    font-weight: bolder;
+}
+.img-logo
+{
+    width: 80px;
+    height: 40px;
+    margin-left: 1200px;
+    margin-top:-60px;  
+}
